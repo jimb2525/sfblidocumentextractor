@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="initial_premium_bank_name" label="Initial Premium Bank Name" language="en" table="x_snc_sfbli_insu_0_authorization_agreement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>initial_premium_bank_name</element>
+            <help/>
+            <hint/>
+            <label>Initial Premium Bank Name</label>
+            <language>en</language>
+            <name>x_snc_sfbli_insu_0_authorization_agreement</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:32:33</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Initial Premium Bank Name</sys_name>
+            <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sfbli_insu_0_authorization_agreement_initial_premium_bank_name_en</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:32:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

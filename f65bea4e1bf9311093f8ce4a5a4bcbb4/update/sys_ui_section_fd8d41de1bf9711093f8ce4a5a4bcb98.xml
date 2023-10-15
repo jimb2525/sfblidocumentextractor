@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fd8d41de1bf9711093f8ce4a5a4bcb98" sys_domain="global" table="x_snc_sfbli_insu_0_insurance_document_type" version="3" view="workspace-sfbli-insurance-document-extractor-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 13:31:28</sys_created_on>
+            <sys_id>c28d41de1bf9711093f8ce4a5a4bcb9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_sfbli_insu_0_insurance_document_type" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">fd8d41de1bf9711093f8ce4a5a4bcb98</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 13:31:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_sfbli_insu_0_insurance_document_type</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 13:31:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd8d41de1bf9711093f8ce4a5a4bcb98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sfbli_insu_0_insurance_document_type</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+            <sys_update_name>sys_ui_section_fd8d41de1bf9711093f8ce4a5a4bcb98</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 13:31:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace SFBLI Insurance Document Extractor Workspace 0" name="workspace-sfbli-insurance-document-extractor-workspace-0">827d8d9e5ff971100b47b5c677ea8c55</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

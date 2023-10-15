@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_di_key">
+    <sys_di_key action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <display_name>Subsequent Premium Name on Account</display_name>
+        <group_index>0</group_index>
+        <key_config/>
+        <key_group/>
+        <mandatory>true</mandatory>
+        <name>subsequentpremiumnameonaccount</name>
+        <order>7</order>
+        <stp_threshold/>
+        <synonym/>
+        <sys_class_name>sys_di_key</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-13 16:55:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3dd5c3e21bfdf11093f8ce4a5a4bcbba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Subsequent Premium Name on Account</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_di_key_3dd5c3e21bfdf11093f8ce4a5a4bcbba</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-13 16:55:36</sys_updated_on>
+        <target_field>subsequent_premium_name_on_account</target_field>
+        <target_table>x_snc_sfbli_insu_0_authorization_agreement</target_table>
+        <task_definition display_value="SFBLI Authorization Agreement">5574c7221bfdf11093f8ce4a5a4bcb68</task_definition>
+        <total_used_positive_samples>0</total_used_positive_samples>
+        <type>Text</type>
+    </sys_di_key>
+</record_update>

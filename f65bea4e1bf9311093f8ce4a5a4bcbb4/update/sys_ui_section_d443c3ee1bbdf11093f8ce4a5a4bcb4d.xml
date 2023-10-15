@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Document Data" section_id="d443c3ee1bbdf11093f8ce4a5a4bcb4d" sys_domain="global" table="x_snc_sfbli_insu_0_authorization_agreement" version="3" view="workspace-sfbli-insurance-document-extractor-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appliction_number</element>
+            <position>0</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>1c43c3ee1bbdf11093f8ce4a5a4bcb5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_bank_name</element>
+            <position>1</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>9843c3ee1bbdf11093f8ce4a5a4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_name_on_account</element>
+            <position>2</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>9c43c3ee1bbdf11093f8ce4a5a4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_routing_number</element>
+            <position>3</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>9043c3ee1bbdf11093f8ce4a5a4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_bank_account_number</element>
+            <position>4</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>9443c3ee1bbdf11093f8ce4a5a4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_account_type</element>
+            <position>5</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>9843c3ee1bbdf11093f8ce4a5a4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_payor_signature</element>
+            <position>6</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>ac43c3ee1bbdf11093f8ce4a5a4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_payor_printed_name</element>
+            <position>7</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a043c3ee1bbdf11093f8ce4a5a4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium_payor_date</element>
+            <position>8</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a443c3ee1bbdf11093f8ce4a5a4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a843c3ee1bbdf11093f8ce4a5a4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initial_premium</element>
+            <position>10</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>ac43c3ee1bbdf11093f8ce4a5a4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_bank_name</element>
+            <position>11</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a043c3ee1bbdf11093f8ce4a5a4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_name_on_account</element>
+            <position>12</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a443c3ee1bbdf11093f8ce4a5a4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_routing_number</element>
+            <position>13</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a843c3ee1bbdf11093f8ce4a5a4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_bank_account_number</element>
+            <position>14</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>ac43c3ee1bbdf11093f8ce4a5a4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_account_type</element>
+            <position>15</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a043c3ee1bbdf11093f8ce4a5a4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_payor_signature</element>
+            <position>16</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a443c3ee1bbdf11093f8ce4a5a4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_payor_printed_name</element>
+            <position>17</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>a843c3ee1bbdf11093f8ce4a5a4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subsequent_premium_payor_date</element>
+            <position>18</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:18</sys_created_on>
+            <sys_id>ac43c3ee1bbdf11093f8ce4a5a4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Document Data" display_value="Document Data" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="827d8d9e5ff971100b47b5c677ea8c55">d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Document Data</caption>
+            <header>false</header>
+            <name>x_snc_sfbli_insu_0_authorization_agreement</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 16:44:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sfbli_insu_0_authorization_agreement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+            <sys_update_name>sys_ui_section_d443c3ee1bbdf11093f8ce4a5a4bcb4d</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 16:44:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace SFBLI Insurance Document Extractor Workspace 0" name="workspace-sfbli-insurance-document-extractor-workspace-0">827d8d9e5ff971100b47b5c677ea8c55</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

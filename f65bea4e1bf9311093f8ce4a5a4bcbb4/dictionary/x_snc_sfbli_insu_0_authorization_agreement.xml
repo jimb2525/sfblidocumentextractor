@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1940b2e61b3df11093f8ce4a5a4bcbd9" extends="x_snc_sfbli_insu_0_insurance_base_document" label="Authorization Agreement" max_length="40" name="x_snc_sfbli_insu_0_authorization_agreement" type="collection">
+        <element label="Application Number" max_length="100" name="appliction_number" type="string"/>
+        <element label="Initial Premium" max_length="38" name="initial_premium" type="decimal"/>
+        <element choice="3" label="Initial Premium Account Type" max_length="40" name="initial_premium_account_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Checking" sequence="0" value="checking"/>
+                <element inactive_on_update="false" label="Savings" sequence="1" value="savings"/>
+            </choice>
+        </element>
+        <element label="Initial Premium Bank Account Number" max_length="40" name="initial_premium_bank_account_number" type="string"/>
+        <element label="Initial Premium Bank Name" max_length="100" name="initial_premium_bank_name" type="string"/>
+        <element label="Initial Premium Name on Account" max_length="100" name="initial_premium_name_on_account" type="string"/>
+        <element label="Initial Premium Payor Date" max_length="40" name="initial_premium_payor_date" type="glide_date"/>
+        <element label="Initial Premium Payor Printed Name" max_length="100" name="initial_premium_payor_printed_name" type="string"/>
+        <element label="Initial Premium Payor Signature" max_length="100" name="initial_premium_payor_signature" type="string"/>
+        <element label="Initial Premium Routing Number" max_length="40" name="initial_premium_routing_number" type="string"/>
+        <element choice="3" label="Subsequent Premium Account Type" max_length="40" name="subsequent_premium_account_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Checking" sequence="0" value="checking"/>
+                <element inactive_on_update="false" label="Savings" sequence="1" value="savings"/>
+            </choice>
+        </element>
+        <element label="Subsequent Premium Bank Account Number" max_length="40" name="subsequent_premium_bank_account_number" type="string"/>
+        <element label="Subsequent Premium Bank Name" max_length="100" name="subsequent_premium_bank_name" type="string"/>
+        <element label="Subsequent Premium Name on Account" max_length="100" name="subsequent_premium_name_on_account" type="string"/>
+        <element label="Subsequent Premium Payor Date" max_length="40" name="subsequent_premium_payor_date" type="glide_date"/>
+        <element label="Subsequent Premium Payor Printed Name" max_length="100" name="subsequent_premium_payor_printed_name" type="string"/>
+        <element label="Subsequent Premium Payor Signature" max_length="100" name="subsequent_premium_payor_signature" type="string"/>
+        <element label="Subsequent Premium Routing Number" max_length="40" name="subsequent_premium_routing_number" type="string"/>
+    </element>
+</database>

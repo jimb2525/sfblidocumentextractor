@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for SFBLI Insurance Document Extractor Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>sfbli-insurance-document-extractor-workspace Search Profile</label>
+        <name>x_snc_sfbli_insu_0_rskurxdx_search_profile</name>
+        <publish_id>81d690c1-6c22-4b80-a0d3-558a44eb62f7</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:31:13</sys_created_on>
+        <sys_id>8e7d8d9ee2f9711022ef65c715d6475e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sfbli-insurance-document-extractor-workspace Search Profile</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>ais_search_profile_8e7d8d9ee2f9711022ef65c715d6475e</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:44:45</sys_updated_on>
+    </ais_search_profile>
+</record_update>

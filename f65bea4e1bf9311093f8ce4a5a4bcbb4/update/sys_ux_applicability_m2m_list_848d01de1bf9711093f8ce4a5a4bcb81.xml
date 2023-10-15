@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app sfbli-insurance-document-extractor-workspace">7f7d01de1bf9711093f8ce4a5a4bcb0a</applicability>
+        <list display_value="Unassigned">408d01de1bf9711093f8ce4a5a4bcb7f</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:31:21</sys_created_on>
+        <sys_id>848d01de1bf9711093f8ce4a5a4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_848d01de1bf9711093f8ce4a5a4bcb81</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:31:21</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

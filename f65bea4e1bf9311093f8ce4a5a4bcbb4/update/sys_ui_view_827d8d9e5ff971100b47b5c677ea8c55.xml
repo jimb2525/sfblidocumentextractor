@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-sfbli-insurance-document-extractor-workspace-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:31:15</sys_created_on>
+        <sys_id>827d8d9e5ff971100b47b5c677ea8c55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace SFBLI Insurance Document Extractor Workspace 0</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_ui_view_827d8d9e5ff971100b47b5c677ea8c55</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:31:15</sys_updated_on>
+        <title>Workspace SFBLI Insurance Document Extractor Workspace 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

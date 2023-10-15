@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1fb9fa821bbd311093f8ce4a5a4bcb2d" extends="sn_ins_indiv_life_base" label="Insurance Base Document" max_length="40" name="x_snc_sfbli_insu_0_insurance_base_document" type="collection">
+        <element label="Document File Name" max_length="200" name="document_file_name" type="string"/>
+        <element label="Document Type" max_length="32" name="document_type" reference="x_snc_sfbli_insu_0_insurance_document_type" type="reference"/>
+    </element>
+</database>

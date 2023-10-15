@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3b4076e61b3df11093f8ce4a5a4bcb1d" sys_domain="global" table="x_snc_sfbli_insu_0_authorization_agreement" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b4076e61b3df11093f8ce4a5a4bcb41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_authorization_agreement" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">3b4076e61b3df11093f8ce4a5a4bcb1d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">734076e61b3df11093f8ce4a5a4bcb20</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb4076e61b3df11093f8ce4a5a4bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_authorization_agreement" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">3b4076e61b3df11093f8ce4a5a4bcb1d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">f74076e61b3df11093f8ce4a5a4bcb5f</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f4076e61b3df11093f8ce4a5a4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_authorization_agreement" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">3b4076e61b3df11093f8ce4a5a4bcb1d</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">ff4076e61b3df11093f8ce4a5a4bcb41</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>334076e61b3df11093f8ce4a5a4bcb5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_authorization_agreement" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">3b4076e61b3df11093f8ce4a5a4bcb1d</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">b74076e61b3df11093f8ce4a5a4bcb5a</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff4076e61b3df11093f8ce4a5a4bcb59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_authorization_agreement" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">3b4076e61b3df11093f8ce4a5a4bcb1d</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_sfbli_insu_0_authorization_agreement" sys_domain="global" view="82c4a631c30e61104672940ed4013124">374076e61b3df11093f8ce4a5a4bcb48</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_sfbli_insu_0_authorization_agreement</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-13 15:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b4076e61b3df11093f8ce4a5a4bcb1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sfbli_insu_0_authorization_agreement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3b4076e61b3df11093f8ce4a5a4bcb1d</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-13 15:21:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Major Case" name="major_case">82c4a631c30e61104672940ed4013124</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

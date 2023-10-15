@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="94c93e821bbd311093f8ce4a5a4bcb3d" sys_domain="global" table="x_snc_sfbli_insu_0_insurance_base_document" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8c93e821bbd311093f8ce4a5a4bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">a4c93e821bbd311093f8ce4a5a4bcb6a</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4c93e821bbd311093f8ce4a5a4bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">e4c93e821bbd311093f8ce4a5a4bcb61</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcc93e821bbd311093f8ce4a5a4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">9cc93e821bbd311093f8ce4a5a4bcb3f</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8c93e821bbd311093f8ce4a5a4bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb46</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0c93e821bbd311093f8ce4a5a4bcb5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">60c93e821bbd311093f8ce4a5a4bcb4c</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecc93e821bbd311093f8ce4a5a4bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Skills" display_value="Skills" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">6cc93e821bbd311093f8ce4a5a4bcb66</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20c93e821bbd311093f8ce4a5a4bcb61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_sfbli_insu_0_insurance_base_document" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">94c93e821bbd311093f8ce4a5a4bcb3d</sys_ui_form>
+            <sys_ui_section caption="Special Handing Notes" display_value="Special Handing Notes" name="x_snc_sfbli_insu_0_insurance_base_document" sys_domain="global" view="c0b36a71c3ca61104672940ed4013160">68c93e821bbd311093f8ce4a5a4bcb5d</sys_ui_section>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_sfbli_insu_0_insurance_base_document</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin2</sys_created_by>
+            <sys_created_on>2023-10-12 02:45:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94c93e821bbd311093f8ce4a5a4bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_sfbli_insu_0_insurance_base_document</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_94c93e821bbd311093f8ce4a5a4bcb3d</sys_update_name>
+            <sys_updated_by>admin2</sys_updated_by>
+            <sys_updated_on>2023-10-12 02:45:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Case" name="case">c0b36a71c3ca61104672940ed4013160</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

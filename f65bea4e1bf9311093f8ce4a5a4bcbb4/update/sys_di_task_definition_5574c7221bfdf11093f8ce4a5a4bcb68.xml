@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_di_task_definition">
+    <sys_di_task_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill>false</autofill>
+        <autofill_threshold>0.01</autofill_threshold>
+        <capability>doc_data_extractor</capability>
+        <component_version>24.1</component_version>
+        <display_name>SFBLI Authorization Agreement</display_name>
+        <document_config display_value="Default">978e2d9e4ff16110cbc6efe0b1ce0bf2</document_config>
+        <document_type display_value="Default">2eae24c14fb92110cbc6efe0b1ce0bf0</document_type>
+        <mluc_id/>
+        <parent_task_definition/>
+        <source_record/>
+        <source_table_name/>
+        <state>current</state>
+        <stp_autofill_threshold>0.2</stp_autofill_threshold>
+        <stp_enabled>false</stp_enabled>
+        <sys_class_name>sys_di_task_definition</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-13 16:49:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5574c7221bfdf11093f8ce4a5a4bcb68</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SFBLI Authorization Agreement</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_di_task_definition_5574c7221bfdf11093f8ce4a5a4bcb68</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-13 16:49:34</sys_updated_on>
+        <target_table>x_snc_sfbli_insu_0_authorization_agreement</target_table>
+        <warning_threshold>0.7</warning_threshold>
+        <workflow_solutions_names_initialized>false</workflow_solutions_names_initialized>
+    </sys_di_task_definition>
+</record_update>

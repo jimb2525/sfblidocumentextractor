@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd5a32061bbd311093f8ce4a5a4bcbdf" label="Insurance Document Type" max_length="40" name="x_snc_sfbli_insu_0_insurance_document_type" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

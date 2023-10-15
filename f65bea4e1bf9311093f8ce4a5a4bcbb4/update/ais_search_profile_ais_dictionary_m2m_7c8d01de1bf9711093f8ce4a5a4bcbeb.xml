@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_sfbli_insu_0_sfbli_insurance_document_extractor_workspace_search_profile_default_spell_check_dictionary">3c8d01de1bf9711093f8ce4a5a4bcbe8</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="sfbli-insurance-document-extractor-workspace Search Profile">8e7d8d9ee2f9711022ef65c715d6475e</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:31:23</sys_created_on>
+        <sys_id>7c8d01de1bf9711093f8ce4a5a4bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sfbli_insu_0_sfbli_insurance_document_extractor_workspace_search_profile_default_spell_check_dictionary.sfbli-insurance-document-extractor-workspace Search Profile</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_7c8d01de1bf9711093f8ce4a5a4bcbeb</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:31:23</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

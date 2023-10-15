@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Submit New Insurance Document">601f89921b3d711093f8ce4a5a4bcbeb</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:40:37</sys_created_on>
+        <sys_id>4caf0dd21b3d711093f8ce4a5a4bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Submit New Insurance Document</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sc_cat_item_category_4caf0dd21b3d711093f8ce4a5a4bcb05</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:40:37</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</application>
+        <file_path/>
+        <instance_id>96be1ed61bc8b190ba5ceb9b2d4bcbc0</instance_id>
+        <instance_name>kmwutahdemo</instance_name>
+        <name>sc_cat_item_category_4caf0dd21b3d711093f8ce4a5a4bcb05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit New Insurance Document">601f89921b3d711093f8ce4a5a4bcbeb</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin2</sys_created_by><sys_created_on>2023-10-12 13:40:37</sys_created_on><sys_id>4caf0dd21b3d711093f8ce4a5a4bcb05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Submit New Insurance Document</sys_name><sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package><sys_policy/><sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope><sys_update_name>sc_cat_item_category_4caf0dd21b3d711093f8ce4a5a4bcb05</sys_update_name><sys_updated_by>admin2</sys_updated_by><sys_updated_on>2023-10-12 13:40:37</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>891132854</payload_hash>
+        <record_name>Can We Help You?.Submit New Insurance Document</record_name>
+        <reverted_from/>
+        <source>b65bea4e1bf9311093f8ce4a5a4bcbb7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:40:37</sys_created_on>
+        <sys_id>44af0dd21b3d711093f8ce4a5a4bcb16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b241e27710000001</sys_recorded_at>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:40:37</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>84af0dd2983d7110b41417024b8e6215</update_guid>
+        <update_guid_history>84af0dd2983d7110b41417024b8e6215:891132854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Submit New Insurance Document">8aaf4dd21b3d711093f8ce4a5a4bcb2e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-12 13:40:46</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>68b0d480451f40d581694ba1ac391db1</sys_id>
+        <sys_metadata>4caf0dd21b3d711093f8ce4a5a4bcb05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Submit New Insurance Document</sys_name>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_scope_delete display_value="">182efe2f45d044beb1cb6a951144ad31</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4caf0dd21b3d711093f8ce4a5a4bcb05</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4caf0dd21b3d711093f8ce4a5a4bcb05">44af0dd21b3d711093f8ce4a5a4bcb16</sys_update_version>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-12 13:40:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
