@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="1940b2e61b3df11093f8ce4a5a4bcbd9" extends="x_snc_sfbli_insu_0_insurance_base_document" label="Authorization Agreement" max_length="40" name="x_snc_sfbli_insu_0_authorization_agreement" type="collection">
+    <element audit="true" db_object_id="1940b2e61b3df11093f8ce4a5a4bcbd9" extends="x_snc_sfbli_insu_0_insurance_base_document" label="Authorization Agreement" max_length="40" name="x_snc_sfbli_insu_0_authorization_agreement" type="collection">
         <element label="Application Number" max_length="100" name="appliction_number" type="string"/>
+        <element label="Form Number" max_length="40" name="form_numbe0" type="string"/>
         <element label="Initial Premium" max_length="38" name="initial_premium" type="decimal"/>
         <element choice="3" label="Initial Premium Account Type" max_length="40" name="initial_premium_account_type" type="choice">
             <choice>
@@ -28,5 +29,6 @@
         <element label="Subsequent Premium Payor Printed Name" max_length="100" name="subsequent_premium_payor_printed_name" type="string"/>
         <element label="Subsequent Premium Payor Signature" max_length="100" name="subsequent_premium_payor_signature" type="string"/>
         <element label="Subsequent Premium Routing Number" max_length="40" name="subsequent_premium_routing_number" type="string"/>
+        <element label="Summarized Agreement" max_length="4000" name="summarized_agreement" type="string"/>
     </element>
 </database>

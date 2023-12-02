@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_sfbli_insu_0_authorization_agreement_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-10-14 10:46:27</sys_updated_on>
+        <sys_updated_on>2023-10-18 10:47:18</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

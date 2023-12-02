@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD1aa6cf379339f910da7e2ca52fe839da</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f65bea4e1bf9311093f8ce4a5a4bcbb4</scope_name>
+        <serialized_content>{"FlowDesigner:FD1aa6cf379339f910da7e2ca52fe839da":{},"FlowDesigner:FD1aa6cf379339f910da7e2ca52fe839da.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD1aa6cf379339f910da7e2ca52fe839da\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Headers\",\"mandatory\":\"false\",\"order\":\"140\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-17 14:11:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>daa6cf371b39f91093f8ce4a5a4bcbda</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD1aa6cf379339f910da7e2ca52fe839da</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_complex_object_daa6cf371b39f91093f8ce4a5a4bcbda</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-17 14:32:40</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

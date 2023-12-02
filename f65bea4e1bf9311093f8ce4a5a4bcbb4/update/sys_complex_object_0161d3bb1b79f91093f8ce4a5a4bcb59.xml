@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4d61d3bb6979f910ea1350d5c14f7958</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f65bea4e1bf9311093f8ce4a5a4bcbb4</scope_name>
+        <serialized_content>{"FlowDesigner:FD4d61d3bb6979f910ea1350d5c14f7958":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD4d61d3bb6979f910ea1350d5c14f7958.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Files\",\"mandatory\":\"false\",\"child_name\":\"File\",\"uiUniqueId\":\"71ea47cd-565c-44a6-952d-92041ab5b862\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD4d61d3bb6979f910ea1350d5c14f7958\",\"child_label\":\"File\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2ea07b84-eb6c-4077-82a6-24d91ffc0a13\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin2</sys_created_by>
+        <sys_created_on>2023-10-17 14:58:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0161d3bb1b79f91093f8ce4a5a4bcb59</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD4d61d3bb6979f910ea1350d5c14f7958</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SFBLI Insurance Document Extractor" source="x_snc_sfbli_insu_0">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFBLI Insurance Document Extractor">f65bea4e1bf9311093f8ce4a5a4bcbb4</sys_scope>
+        <sys_update_name>sys_complex_object_0161d3bb1b79f91093f8ce4a5a4bcb59</sys_update_name>
+        <sys_updated_by>admin2</sys_updated_by>
+        <sys_updated_on>2023-10-17 14:59:04</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
